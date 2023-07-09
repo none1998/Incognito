@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Coin
+  - Audio
+  - AddHeart
+  - Health
+  - ElevStop
+  - AP
+  - Enemy
+  - Portal
+  - SmallEnemy
+  - Boss
+  - test1
+  - Jumper
+  - Slider
+  - Bullet
+  - Snow
+  - Mummy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 642363575
+    locked: 0
+  - name: Decorations
+    uniqueID: 3563678385
+    locked: 0
+  - name: Player
+    uniqueID: 1375605461
+    locked: 0
+  - name: UI
+    uniqueID: 2072464259
+    locked: 0
